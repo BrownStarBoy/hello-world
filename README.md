@@ -1,2 +1,5 @@
 # hello-world
-I'm just here for fun 
+
+Hi homies,
+
+Just a guy trying to learn some coding for fun.
